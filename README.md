@@ -1,6 +1,6 @@
 # backyard
 
-by Fer Gonzalez (@Hotfixr)
+by Fer Gonzalez ([@Hotfixr](https://twitter.com/Hotfixr)
 
 The power (of backdooring) to the people!
 
